@@ -301,7 +301,6 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
               trigger: "#mainVideo",
               start: "50% bottom",
               end: "bottom top",
-              markers: !0,
               onEnter: function onEnter() {
                 e.playVideo("mainVideo");
               },
