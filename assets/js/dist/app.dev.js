@@ -21,16 +21,16 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
           n = r(804),
           a = r.n(n),
           c = r(9886);
-      var p = JSON.parse('{"nb":{"src":"https://kinescope.io/201421361","srcPt":"https://kinescope.io/201421470"},"e0":[{"id":"kos","name":"Даша Кос","video":{"src":"https://kinescope.io/201421370","srcPt":"https://kinescope.io/201421475"},"images":[{"src":"heroes/kos-1.jpg","alt":"Даша Кос на улице с цветами","params":"l:653,b:192"},{"src":"heroes/kos-product.jpg","alt":"Даша Кос в кроссовках ecco","params":"r:671,t:58"}],"blocks":[{"type":"text","order":1,"text":["<strong>Мой день&nbsp;&mdash; это беготня постоянная.</strong> Шоурумы, магазины, обзоры. Всегда куча пакетов в&nbsp;руке. Запрыгиваю в&nbsp;такси, отвечаю на&nbsp;письма. Постоянно в&nbsp;телефоне."],"modificators":["l"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":2,"image":{"src":"heroes/kos-1.jpg","alt":"Даша Кос на улице с цветами"},"modificators":["r","no-padding","pt-mb"],"imageSize":"middle","rects":[["small-h","b","r"]]},{"type":"image","order":3,"image":{"src":"heroes/kos-2.jpg","alt":"Даша Кос выходит из магазина"},"modificators":["l"],"imageSize":"h","rects":[["middle","t","l"],["rect","b","r","pt-x-center"]]},{"type":"text","order":4,"text":["<strong>Я&nbsp;про пощупать.</strong> Для меня красота&nbsp;&mdash; это ткани. Пощупать качество вещей. Все про touch. Слишком touch."],"modificators":["r"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":6,"image":{"src":"heroes/kos-3.jpg","alt":"Даша Кос на улице с пакетами"},"modificators":["r"],"imageSize":"h","rects":[["big","b","r"],["t","only-pt","pt-x-center"]]},{"type":"text","order":5,"text":["<strong>Счастье в&nbsp;мелочах.</strong> Вкусно поешь, увидишь красивое дерево, поноешь и&nbsp;уже хорошо."],"modificators":["l","pb"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"lastImage","order":7,"image":{"src":"heroes/kos-product.jpg","alt":"Даша Кос в кроссовках ecco"},"modificators":["w-100","mt"],"imageSize":"w","rects":[["small-v","m","r","pt-h","pt-x-center","pt-t"],["small-v","m","l","pt-h","pt-x-center","pt-b"]]},{"type":"text","order":8,"text":["Я супер."],"modificators":["w-100","mb","text-center","pt-no-text-margin"]}],"footer":{"text":"На&nbsp;Даше кроссовки в&nbsp;винтажном стиле Retro и&nbsp;сумка Pot Bag вдохновлённая датской лейкой","products":[{"src":"products/kos-1.jpg","srcHover":"products/kos-1-hover.jpg","alt":"кроссовки в винтажном стиле Retro","href":"https://www.ecco.ru/catalog/211713/60366/"},{"src":"products/kos-2.jpg","srcHover":"products/kos-2-hover.jpg","alt":"сумка Pot Bag вдохновлённая датской лейкой","href":"https://www.ecco.ru/catalog/9105826/90000/"}]}},{"id":"terevkov","name":"Леша Теревков","video":{"src":"https://kinescope.io/201421431","srcPt":"https://kinescope.io/201421481"},"images":[{"src":"heroes/terevkov-1.jpg","alt":"Леша Теревков"},{"src":"heroes/terevkov-product.jpg","alt":"Леша Теревков в кроссовках ecco"}],"blocks":[{"type":"text","order":2,"text":["<strong>Без спорта в&nbsp;первой половине дня мне, если честно, ничего не&nbsp;хочется делать.</strong> Позанимаюсь. Всё. Всё у&nbsp;меня всё отлично."],"modificators":["l"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":1,"image":{"src":"heroes/terevkov-1.jpg","alt":"Леша Теревков"},"modificators":["l","no-padding"],"imageSize":"middle","rects":[["small-h","b","l"]]},{"type":"text","order":3,"text":["<strong>Я&nbsp;езжу на&nbsp;встречи, слушаю музыку,</strong> вечером обязательно я&nbsp;съезжу покатаюсь по&nbsp;набережной, по&nbsp;парку или встречусь с&nbsp;ребятами."],"modificators":["l"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":4,"image":{"src":"heroes/terevkov-2.jpg","alt":"Леша Теревков с сумкой cos"},"modificators":["r"],"imageSize":"h","rects":[["middle","t","r"],["rect","b","l","pt-x-center"]]},{"type":"text","order":6,"text":["<strong>Я&nbsp;очень люблю музыку. Я&nbsp;постоянно её&nbsp;слушаю. Безостановочно.</strong> Могу одну песню прослушаю 60&nbsp;раз, но&nbsp;я&nbsp;не&nbsp;вспомню ни&nbsp;одного слова из&nbsp;неё.","<strong>Это что-то типа сальсы.</strong>"],"modificators":["r","text-middle","text-center-only-2","pt-big-text"]},{"type":"image","order":5,"image":{"src":"heroes/terevkov-3.jpg","alt":"Леша Теревков в кроссовках cos"},"modificators":["l"],"imageSize":"h","rects":[["only-pt","t","pt-x-center"],["big","b","l"]]},{"type":"line","order":7,"modificators":["w-100","pt-none","mb-small"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"text","order":8,"text":["<strong>Я&nbsp;с&nbsp;самого детства занимался танцевальным спортом,</strong> что зародило во&nbsp;мне какой-то вечный ритм внутри меня.","<strong>Вот так могу.</strong>"],"modificators":["w-100","text-center","text-big","pt-big-text","text-center-only-2"]},{"type":"lastImage","order":9,"image":{"src":"heroes/terevkov-product.jpg","alt":"Леша Теревков в кроссовках ecco"},"modificators":["w-100","mt"],"imageSize":"w","rects":[["small-v","m","r","pt-h","pt-x-center","pt-t"],["small-v","m","l","pt-h","pt-x-center","pt-b"]]},{"type":"text","order":10,"text":["<strong>Я&nbsp;очень стеснительный.</strong> Безумно стеснительный, но&nbsp;как будто-то&nbsp;бы и&nbsp;нет."],"modificators":["w-100","mb","text-center","text-big","pt-no-text-margin"]}],"footer":{"text":"На&nbsp;Леше функциональная пара в&nbsp;расслабленном стиле ECCO THERAP, сумка Pot Bag и&nbsp;RETRO носки","products":[{"src":"products/terevkov-2.jpg","srcHover":"products/terevkov-2-hover.jpg","alt":"пара кроссовок в расслабленном стиле ECCO THERAP","href":"https://www.ecco.ru/catalog/825254/01007/"},{"src":"products/terevkov-1.jpg","srcHover":"products/terevkov-1-hover.jpg","alt":"сумка сумка Pot Bag","href":"https://www.ecco.ru/catalog/9105826/91027/"},{"src":"products/terevkov-3.jpg","srcHover":"products/terevkov-3-hover.jpg","alt":"RETRO носки","href":"https://www.ecco.ru/catalog/9085492/90851/"}]}},{"id":"zharkova","name":"Саша Жаркова","video":{"src":"https://kinescope.io/201421440","srcPt":"https://kinescope.io/201421488"},"images":[{"src":"heroes/zharkova-1.jpg","alt":"Саша Жаркова за письменным столом"},{"src":"heroes/zharkova-product.jpg","alt":"Саша Жаркова в кроссовках ecco"}],"blocks":[{"type":"text","order":1,"text":["<strong>Как проходит мой день?</strong> Очень быстро. Просто несешься"],"modificators":["l"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":2,"image":{"src":"heroes/zharkova-1.jpg","alt":"Саша Жаркова за письменным столом"},"modificators":["r","no-padding","pt-mb"],"imageSize":"middle","rects":[["small-h","b","r"]]},{"type":"image","order":3,"image":{"src":"heroes/zharkova-2.jpg","alt":"Саша Жаркова на съемочной площадке"},"modificators":["l"],"imageSize":"h","rects":[["middle","t","l"],["rect","b","r","pt-x-center"]]},{"type":"text","order":4,"text":["<strong>Мне кажется, что мы&nbsp;очень часто забываем о&nbsp;том, что авантюры&nbsp;&mdash; это супер.</strong>"],"modificators":["r"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":6,"image":{"src":"heroes/zharkova-3.jpg","alt":"Саша Жаркова за пиьсменным столом"},"modificators":["r"],"imageSize":"h","rects":[["only-pt","t","pt-x-center"],["big","b","r"]]},{"type":"text","order":5,"text":["<strong>Страх. Боязнь белого листа, но&nbsp;на&nbsp;самом деле, когда ты&nbsp;начинаешь... когда ты&nbsp;начинаешь&nbsp;&mdash; это ключевое слово, мне кажется.</strong> Ты&nbsp;попадаешь в&nbsp;этот творческий поток. Тебя несет вместе с&nbsp;ним, и&nbsp;ты&nbsp;не&nbsp;можешь из&nbsp;него выбраться, но&nbsp;это классно."],"modificators":["l","text-middle","pb-small"]},{"type":"line","order":7,"modificators":["w-100","pt-none"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"lastImage","order":8,"image":{"src":"heroes/zharkova-product.jpg","alt":"Саша Жаркова в кроссовках ecco"},"modificators":["w-100","mt-small"],"imageSize":"w","rects":[["small-v","m","r","pt-h","pt-x-center","pt-t"],["small-v","m","l","pt-h","pt-x-center","pt-b"]]}],"footer":{"text":"На&nbsp;Саше массивные, но&nbsp;при этом легкие и&nbsp;комфортные ECCO CHUNKY SNEAKER","products":[{"src":"products/zharkova-1.jpg","srcHover":"products/zharkova-1-hover.jpg","alt":"кроссовки ECCO CHUNKY SNEAKER","href":"https://www.ecco.ru/catalog/203173/01378/"}]}},{"id":"suhov","name":"Сергей Сухов","video":{"src":"https://kinescope.io/201421448","srcPt":"https://kinescope.io/201421491"},"images":[{"src":"heroes/suhov-1.jpg","alt":"Сергей Сухов в кресле"},{"src":"heroes/suhov-product.jpg","alt":"Сергей Сухов моет свою собаку в кроссовках ecco"}],"blocks":[{"type":"text","order":2,"text":["<strong>Я&nbsp;лайфстайл блогер.</strong> Часть моей работы&nbsp;&mdash; это транслировать&nbsp;то, чем я&nbsp;живу в&nbsp;течение дня."],"modificators":["l","text-middle"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":1,"image":{"src":"heroes/suhov-1.jpg","alt":"Сергей Сухов за столом"},"modificators":["l","no-padding"],"imageSize":"middle","rects":[["small-h","b","l"]]},{"type":"text","order":3,"text":["<strong>Конечно&nbsp;же, я&nbsp;не&nbsp;могу представить день без моих родных, без моих собак.</strong> Что касается их&nbsp;имен. Это было настолько просто. Это первое слово, которое я&nbsp;сказал: &laquo;Какой хрюня&raquo;, потому что очень ведет себя похоже, как вот это животное, но&nbsp;я&nbsp;действительно очень предан эти двум созданиям."],"modificators":["l","text-big"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":4,"image":{"src":"heroes/suhov-2.jpg","alt":"Сергей Сухов со своими собаками"},"modificators":["r"],"imageSize":"h","rects":[["middle","t","r"],["rect","b","l","pt-x-center"]]},{"type":"text","order":6,"text":["<strong>Мне кажется, важно уметь радоваться и&nbsp;серьезным каким-то своим достижениям,</strong> но&nbsp;также не&nbsp;недооценивать какие-то маленькие жизненные радости."],"modificators":["r","text-middle","pb-small","mb"]},{"type":"image","order":5,"image":{"src":"heroes/suhov-3.jpg","alt":"Сергей Сухов делает селфи с друзьями и собаками"},"modificators":["l"],"imageSize":"h","rects":[["t","only-pt","pt-x-center"],["big","b","l"]]},{"type":"line","order":7,"modificators":["w-100","pt-none"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"lastImage","order":8,"image":{"src":"heroes/suhov-product.jpg","alt":"Сергей Сухов моет свою собаку в кроссовках ecco"},"modificators":["w-100","mt-small"],"imageSize":"w","rects":[["small-v","m","r","pt-h","pt-x-center","pt-t"],["small-v","m","l","pt-h","pt-x-center","pt-t"]]},{"type":"text","order":9,"text":["<strong>Счастье в&nbsp;простоте и&nbsp;естественности.</strong>"],"modificators":["w-100","mb","text-center","text-big","pt-no-text-margin"]}],"footer":{"text":"На&nbsp;Сергее ECCO ZIPFLEX. Необычная модель, вдохновением для которой послужила застежка в&nbsp;виде молнии.","products":[{"src":"products/suhov-1.jpg","srcHover":"products/suhov-1-hover.jpg","alt":"кроссовки ECCO ZIPFLEX"}]}}]}');
+      var d = JSON.parse('{"nb":{"src":"https://edge-msk-6.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/cc323724-909d-493b-8ae7-a0f83c29cdb2/assets/cc5ed349-5455-4d29-b5de-98ddc3017816/original.mp4#t=0.1","srcPt":"https://edge-msk-6.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/5ce66a78-1f4d-4d63-8e6c-6bab864366d5/assets/47a12323-cdeb-4827-bfe8-9d2c7255942d/original.mp4#t=0.1"},"e0":[{"id":"kos","name":"Даша Кос","video":{"src":"https://edge-msk-6.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/25e63c10-99e2-42ec-8daf-ce317816b8c6/assets/c920e340-8bcd-4dc9-99f2-36f8fc129056/original.mp4#t=0.1","srcPt":"https://edge-msk-6.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/715f5571-5a47-4de5-82e3-99621a4a298f/assets/0f28f5e0-2b14-47be-a2e2-d065c49be748/original.mp4#t=0.1"},"images":[{"src":"heroes/kos-1.jpg","alt":"Даша Кос на улице с цветами","params":"l:653,b:192"},{"src":"heroes/kos-product.jpg","alt":"Даша Кос в кроссовках ecco","params":"r:671,t:58"}],"blocks":[{"type":"text","order":1,"text":["<strong>Мой день&nbsp;&mdash; это беготня постоянная.</strong> Шоурумы, магазины, обзоры. Всегда куча пакетов в&nbsp;руке. Запрыгиваю в&nbsp;такси, отвечаю на&nbsp;письма. Постоянно в&nbsp;телефоне."],"modificators":["l"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":2,"image":{"src":"heroes/kos-1.jpg","alt":"Даша Кос на улице с цветами"},"modificators":["r","no-padding","pt-mb"],"imageSize":"middle","rects":[["small-h","b","r"]]},{"type":"image","order":3,"image":{"src":"heroes/kos-2.jpg","alt":"Даша Кос выходит из магазина"},"modificators":["l"],"imageSize":"h","rects":[["middle","t","l"],["rect","b","r","pt-x-center"]]},{"type":"text","order":4,"text":["<strong>Я&nbsp;про пощупать.</strong> Для меня красота&nbsp;&mdash; это ткани. Пощупать качество вещей. Все про touch. Слишком touch."],"modificators":["r"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":6,"image":{"src":"heroes/kos-3.jpg","alt":"Даша Кос на улице с пакетами"},"modificators":["r"],"imageSize":"h","rects":[["big","b","r"],["t","only-pt","pt-x-center"]]},{"type":"text","order":5,"text":["<strong>Счастье в&nbsp;мелочах.</strong> Вкусно поешь, увидишь красивое дерево, поноешь и&nbsp;уже хорошо."],"modificators":["l","pb"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"lastImage","order":7,"image":{"src":"heroes/kos-product.jpg","alt":"Даша Кос в кроссовках ecco"},"modificators":["w-100","mt"],"imageSize":"w","rects":[["small-v","m","r","pt-h","pt-x-center","pt-t"],["small-v","m","l","pt-h","pt-x-center","pt-b"]]},{"type":"text","order":8,"text":["Я супер."],"modificators":["w-100","mb","text-center","pt-no-text-margin"]}],"footer":{"text":"На&nbsp;Даше кроссовки в&nbsp;винтажном стиле Retro и&nbsp;сумка Pot Bag вдохновлённая датской лейкой","products":[{"src":"products/kos-1.jpg","srcHover":"products/kos-1-hover.jpg","alt":"кроссовки в винтажном стиле Retro","href":"https://www.ecco.ru/catalog/211713/60366/"},{"src":"products/kos-2.jpg","srcHover":"products/kos-2-hover.jpg","alt":"сумка Pot Bag вдохновлённая датской лейкой","href":"https://www.ecco.ru/catalog/9105826/90000/"}]}},{"id":"terevkov","name":"Леша Теревков","video":{"src":"https://edge-msk-6.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/06fb0272-3a72-42df-b0d0-3853e34a380a/assets/180bb6eb-d3af-480b-91a1-617796e5dea9/original.mp4#t=0.1","srcPt":"https://edge-msk-5.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/029c74e2-8d0f-4321-84e2-94d4a1dc4519/assets/513aec86-0f41-4cd9-8111-a5af82117412/original.mp4#t=0.1"},"images":[{"src":"heroes/terevkov-1.jpg","alt":"Леша Теревков"},{"src":"heroes/terevkov-product.jpg","alt":"Леша Теревков в кроссовках ecco"}],"blocks":[{"type":"text","order":2,"text":["<strong>Без спорта в&nbsp;первой половине дня мне, если честно, ничего не&nbsp;хочется делать.</strong> Позанимаюсь. Всё. Всё у&nbsp;меня всё отлично."],"modificators":["l"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":1,"image":{"src":"heroes/terevkov-1.jpg","alt":"Леша Теревков"},"modificators":["l","no-padding"],"imageSize":"middle","rects":[["small-h","b","l"]]},{"type":"text","order":3,"text":["<strong>Я&nbsp;езжу на&nbsp;встречи, слушаю музыку,</strong> вечером обязательно я&nbsp;съезжу покатаюсь по&nbsp;набережной, по&nbsp;парку или встречусь с&nbsp;ребятами."],"modificators":["l"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":4,"image":{"src":"heroes/terevkov-2.jpg","alt":"Леша Теревков с сумкой cos"},"modificators":["r"],"imageSize":"h","rects":[["middle","t","r"],["rect","b","l","pt-x-center"]]},{"type":"text","order":6,"text":["<strong>Я&nbsp;очень люблю музыку. Я&nbsp;постоянно её&nbsp;слушаю. Безостановочно.</strong> Могу одну песню прослушаю 60&nbsp;раз, но&nbsp;я&nbsp;не&nbsp;вспомню ни&nbsp;одного слова из&nbsp;неё.","<strong>Это что-то типа сальсы.</strong>"],"modificators":["r","text-middle","text-center-only-2","pt-big-text"]},{"type":"image","order":5,"image":{"src":"heroes/terevkov-3.jpg","alt":"Леша Теревков в кроссовках cos"},"modificators":["l"],"imageSize":"h","rects":[["only-pt","t","pt-x-center"],["big","b","l"]]},{"type":"line","order":7,"modificators":["w-100","pt-none","mb-small"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"text","order":8,"text":["<strong>Я&nbsp;с&nbsp;самого детства занимался танцевальным спортом,</strong> что зародило во&nbsp;мне какой-то вечный ритм внутри меня.","<strong>Вот так могу.</strong>"],"modificators":["w-100","text-center","text-big","pt-big-text","text-center-only-2"]},{"type":"lastImage","order":9,"image":{"src":"heroes/terevkov-product.jpg","alt":"Леша Теревков в кроссовках ecco"},"modificators":["w-100","mt"],"imageSize":"w","rects":[["small-v","m","r","pt-h","pt-x-center","pt-t"],["small-v","m","l","pt-h","pt-x-center","pt-b"]]},{"type":"text","order":10,"text":["<strong>Я&nbsp;очень стеснительный.</strong> Безумно стеснительный, но&nbsp;как будто-то&nbsp;бы и&nbsp;нет."],"modificators":["w-100","mb","text-center","text-big","pt-no-text-margin"]}],"footer":{"text":"На&nbsp;Леше функциональная пара в&nbsp;расслабленном стиле ECCO THERAP, сумка Pot Bag и&nbsp;RETRO носки","products":[{"src":"products/terevkov-2.jpg","srcHover":"products/terevkov-2-hover.jpg","alt":"пара кроссовок в расслабленном стиле ECCO THERAP","href":"https://www.ecco.ru/catalog/825254/01007/"},{"src":"products/terevkov-1.jpg","srcHover":"products/terevkov-1-hover.jpg","alt":"сумка сумка Pot Bag","href":"https://www.ecco.ru/catalog/9105826/91027/"},{"src":"products/terevkov-3.jpg","srcHover":"products/terevkov-3-hover.jpg","alt":"RETRO носки","href":"https://www.ecco.ru/catalog/9085492/90851/"}]}},{"id":"zharkova","name":"Саша Жаркова","video":{"src":"https://edge-msk-6.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/798aff12-2c9c-4764-a985-e7b7707b4ce0/assets/8dd7e07f-dbc5-4c7d-b6c2-f3912f9ffd2b/original.mp4#t=0.1","srcPt":"https://edge-msk-6.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/748f65e3-ef11-4a37-817f-5fb12644eeae/assets/e08ca612-b453-4c15-8fd1-df58084f1f55/original.mp4#t=0.1"},"images":[{"src":"heroes/zharkova-1.jpg","alt":"Саша Жаркова за письменным столом"},{"src":"heroes/zharkova-product.jpg","alt":"Саша Жаркова в кроссовках ecco"}],"blocks":[{"type":"text","order":1,"text":["<strong>Как проходит мой день?</strong> Очень быстро. Просто несешься"],"modificators":["l"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":2,"image":{"src":"heroes/zharkova-1.jpg","alt":"Саша Жаркова за письменным столом"},"modificators":["r","no-padding","pt-mb"],"imageSize":"middle","rects":[["small-h","b","r"]]},{"type":"image","order":3,"image":{"src":"heroes/zharkova-2.jpg","alt":"Саша Жаркова на съемочной площадке"},"modificators":["l"],"imageSize":"h","rects":[["middle","t","l"],["rect","b","r","pt-x-center"]]},{"type":"text","order":4,"text":["<strong>Мне кажется, что мы&nbsp;очень часто забываем о&nbsp;том, что авантюры&nbsp;&mdash; это супер.</strong>"],"modificators":["r"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":6,"image":{"src":"heroes/zharkova-3.jpg","alt":"Саша Жаркова за пиьсменным столом"},"modificators":["r"],"imageSize":"h","rects":[["only-pt","t","pt-x-center"],["big","b","r"]]},{"type":"text","order":5,"text":["<strong>Страх. Боязнь белого листа, но&nbsp;на&nbsp;самом деле, когда ты&nbsp;начинаешь... когда ты&nbsp;начинаешь&nbsp;&mdash; это ключевое слово, мне кажется.</strong> Ты&nbsp;попадаешь в&nbsp;этот творческий поток. Тебя несет вместе с&nbsp;ним, и&nbsp;ты&nbsp;не&nbsp;можешь из&nbsp;него выбраться, но&nbsp;это классно."],"modificators":["l","text-middle","pb-small"]},{"type":"line","order":7,"modificators":["w-100","pt-none"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"lastImage","order":8,"image":{"src":"heroes/zharkova-product.jpg","alt":"Саша Жаркова в кроссовках ecco"},"modificators":["w-100","mt-small"],"imageSize":"w","rects":[["small-v","m","r","pt-h","pt-x-center","pt-t"],["small-v","m","l","pt-h","pt-x-center","pt-b"]]}],"footer":{"text":"На&nbsp;Саше массивные, но&nbsp;при этом легкие и&nbsp;комфортные ECCO CHUNKY SNEAKER","products":[{"src":"products/zharkova-1.jpg","srcHover":"products/zharkova-1-hover.jpg","alt":"кроссовки ECCO CHUNKY SNEAKER","href":"https://www.ecco.ru/catalog/203173/01378/"}]}},{"id":"suhov","name":"Сергей Сухов","video":{"src":"https://edge-msk-6.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/1a0b9dea-394a-4616-87ca-6e10d8aa1f51/assets/b3241db5-94e4-4011-ac57-b32df5c83f06/original.mp4#t=0.1","srcPt":"https://edge-msk-6.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/07f1a04e-94bf-4ffd-958b-92a22cf25c39/assets/3f6fd281-ab03-404b-b6b4-603247fe74b5/original.mp4#t=0.1"},"images":[{"src":"heroes/suhov-1.jpg","alt":"Сергей Сухов в кресле"},{"src":"heroes/suhov-product.jpg","alt":"Сергей Сухов моет свою собаку в кроссовках ecco"}],"blocks":[{"type":"text","order":2,"text":["<strong>Я&nbsp;лайфстайл блогер.</strong> Часть моей работы&nbsp;&mdash; это транслировать&nbsp;то, чем я&nbsp;живу в&nbsp;течение дня."],"modificators":["l","text-middle"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":1,"image":{"src":"heroes/suhov-1.jpg","alt":"Сергей Сухов за столом"},"modificators":["l","no-padding"],"imageSize":"middle","rects":[["small-h","b","l"]]},{"type":"text","order":3,"text":["<strong>Конечно&nbsp;же, я&nbsp;не&nbsp;могу представить день без моих родных, без моих собак.</strong> Что касается их&nbsp;имен. Это было настолько просто. Это первое слово, которое я&nbsp;сказал: &laquo;Какой хрюня&raquo;, потому что очень ведет себя похоже, как вот это животное, но&nbsp;я&nbsp;действительно очень предан эти двум созданиям."],"modificators":["l","text-big"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"image","order":4,"image":{"src":"heroes/suhov-2.jpg","alt":"Сергей Сухов со своими собаками"},"modificators":["r"],"imageSize":"h","rects":[["middle","t","r"],["rect","b","l","pt-x-center"]]},{"type":"text","order":6,"text":["<strong>Мне кажется, важно уметь радоваться и&nbsp;серьезным каким-то своим достижениям,</strong> но&nbsp;также не&nbsp;недооценивать какие-то маленькие жизненные радости."],"modificators":["r","text-middle","pb-small","mb"]},{"type":"image","order":5,"image":{"src":"heroes/suhov-3.jpg","alt":"Сергей Сухов делает селфи с друзьями и собаками"},"modificators":["l"],"imageSize":"h","rects":[["t","only-pt","pt-x-center"],["big","b","l"]]},{"type":"line","order":7,"modificators":["w-100","pt-none"],"line":{"type":"v","animFrom":"from-top","classes":["inview"]}},{"type":"lastImage","order":8,"image":{"src":"heroes/suhov-product.jpg","alt":"Сергей Сухов моет свою собаку в кроссовках ecco"},"modificators":["w-100","mt-small"],"imageSize":"w","rects":[["small-v","m","r","pt-h","pt-x-center","pt-t"],["small-v","m","l","pt-h","pt-x-center","pt-t"]]},{"type":"text","order":9,"text":["<strong>Счастье в&nbsp;простоте и&nbsp;естественности.</strong>"],"modificators":["w-100","mb","text-center","text-big","pt-no-text-margin"]}],"footer":{"text":"На&nbsp;Сергее ECCO ZIPFLEX. Необычная модель, вдохновением для которой послужила застежка в&nbsp;виде молнии.","products":[{"src":"products/suhov-1.jpg","srcHover":"products/suhov-1-hover.jpg","alt":"кроссовки ECCO ZIPFLEX"}]}}]}');
 
-      function l(e, t) {
+      function p(e, t) {
         for (var r = 0; r < t.length; r++) {
           var o = t[r];
           o.enumerable = o.enumerable || !1, o.configurable = !0, "value" in o && (o.writable = !0), Object.defineProperty(e, o.key, o);
         }
       }
 
-      function d(e, t, r) {
+      function l(e, t, r) {
         return t in e ? Object.defineProperty(e, t, {
           value: r,
           enumerable: !0,
@@ -43,7 +43,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
         function e(t) {
           !function (e, t) {
             if (!(e instanceof t)) throw new TypeError("Cannot call a class as a function");
-          }(this, e), d(this, "x", 0), d(this, "y", 0), this.parentElement = t, this.initMouseMoveEvent();
+          }(this, e), l(this, "x", 0), l(this, "y", 0), this.parentElement = t, this.initMouseMoveEvent();
         }
 
         var t, r;
@@ -56,7 +56,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
               e.x = t.pageX, e.y = t.pageY > window.innerHeight ? t.pageY - window.innerHeight : t.pageY;
             };
           }
-        }]) && l(t.prototype, r), Object.defineProperty(t, "prototype", {
+        }]) && p(t.prototype, r), Object.defineProperty(t, "prototype", {
           writable: !1
         }), e;
       }();
@@ -77,7 +77,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
         }) : e[t] = r, e;
       }
 
-      var h = function () {
+      var f = function () {
         function e(t) {
           !function (e, t) {
             if (!(e instanceof t)) throw new TypeError("Cannot call a class as a function");
@@ -125,14 +125,14 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
         }), e;
       }();
 
-      function v(e, t) {
+      function h(e, t) {
         for (var r = 0; r < t.length; r++) {
           var o = t[r];
           o.enumerable = o.enumerable || !1, o.configurable = !0, "value" in o && (o.writable = !0), Object.defineProperty(e, o.key, o);
         }
       }
 
-      function f(e, t, r) {
+      function v(e, t, r) {
         return t in e ? Object.defineProperty(e, t, {
           value: r,
           enumerable: !0,
@@ -150,12 +150,12 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
         function e() {
           !function (e, t) {
             if (!(e instanceof t)) throw new TypeError("Cannot call a class as a function");
-          }(this, e), f(this, "main", document.getElementById("mainPage")), f(this, "insertedVideos", []), f(this, "phase", 0), f(this, "mainPart1", document.getElementById("mainPart1")), f(this, "mainPart2", document.getElementById("mainPart2")), f(this, "hasScrolling", !1), setTimeout(function () {
+          }(this, e), v(this, "main", document.getElementById("mainPage")), v(this, "insertedVideos", []), v(this, "phase", 0), v(this, "mainPart1", document.getElementById("mainPart1")), v(this, "mainPart2", document.getElementById("mainPart2")), v(this, "hasScrolling", !1), setTimeout(function () {
             o.ZP.to(window, {
               scrollTo: 0,
               duration: .2
             });
-          }, 3e3), b() ? this.initSwipers() : (this.mouseMovement = new h("#mainPageBack"), this.addImgHoverListener(), this.mouseMovement.startMouseTracking()), this.addMainScrollTrigger(), this.addCharactersLeadTrigger(), this.addInviewByScroll(), this.addNavigation();
+          }, 3e3), b() ? this.initSwipers() : (this.mouseMovement = new f("#mainPageBack"), this.addImgHoverListener(), this.mouseMovement.startMouseTracking()), this.addMainScrollTrigger(), this.addVideoScrollTriggers(), this.addCharactersLeadTrigger(), this.addInviewByScroll(), this.addNavigation();
         }
 
         var t, r;
@@ -208,7 +208,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
                 duration: .75,
                 scrollTo: e
               });
-            } else this.insertVideo("mainVideo", p.nb);
+            } else this.insertVideo("mainVideo", d.nb);
           }
         }, {
           key: "addImgHoverListener",
@@ -236,7 +236,16 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
                   scrub: !0,
                   pinSpacing: !1,
                   onEnter: function onEnter() {
-                    e.insertVideo("heroVideo".concat(s), p.e0[s].video);
+                    e.insertVideo("heroVideo".concat(s), d.e0[s].video), e.playVideo("heroVideo".concat(s));
+                  },
+                  onEnterBack: function onEnterBack() {
+                    e.playVideo("heroVideo".concat(s));
+                  },
+                  onLeave: function onLeave() {
+                    e.pauseVideo("heroVideo".concat(s));
+                  },
+                  onLeaveBack: function onLeaveBack() {
+                    e.pauseVideo("heroVideo".concat(s));
                   }
                 }
               }), e["tlLead".concat(s)].to(t.querySelector(".section-lead__bg"), {
@@ -264,7 +273,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
                 nextEl: ".nav-slide-next",
                 prevEl: ".nav-slide-prev"
               }
-            }), p.e0.forEach(function (t, r) {
+            }), d.e0.forEach(function (t, r) {
               var o = document.querySelector(".swiper-products-".concat(r));
               e["swiperProducts".concat(r)] = new c.ZP(o, {
                 modules: [c.W_],
@@ -281,7 +290,30 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
               loop: !0,
               speed: 700
             }), this.swiperMainDecor.on("slideChange", function (t) {
-              e.main.style.setProperty("--theme", "var(--theme-".concat(p.e0[t.realIndex].id, ")")), t.realIndex % 2 ? e.main.classList.add("pt-slide-even") : e.main.classList.remove("pt-slide-even");
+              e.main.style.setProperty("--theme", "var(--theme-".concat(d.e0[t.realIndex].id, ")")), t.realIndex % 2 ? e.main.classList.add("pt-slide-even") : e.main.classList.remove("pt-slide-even");
+            });
+          }
+        }, {
+          key: "addVideoScrollTriggers",
+          value: function value() {
+            var e = this;
+            i().create({
+              trigger: "#mainVideo",
+              start: "50% bottom",
+              end: "bottom top",
+              markers: !0,
+              onEnter: function onEnter() {
+                e.playVideo("mainVideo");
+              },
+              onEnterBack: function onEnterBack() {
+                e.playVideo("mainVideo");
+              },
+              onLeave: function onLeave() {
+                e.pauseVideo("mainVideo");
+              },
+              onLeaveBack: function onLeaveBack() {
+                e.pauseVideo("mainVideo");
+              }
             });
           }
         }, {
@@ -290,10 +322,22 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
             if (!this.insertedVideos.find(function (t) {
               return t === e;
             })) {
-              var r,
-                  o = document.getElementById(e).querySelector(".video").querySelector(".video__frame");
-              r = b() ? t.srcPt : t.src, o.setAttribute("src", r), this.insertedVideos.push(e);
+              var r = document.getElementById(e);
+              this["video".concat(e)] = r.querySelector(".video");
+              var o,
+                  s = document.createElement("source");
+              o = b() ? t.srcPt : t.src, s.setAttribute("src", o), s.setAttribute("type", "video/mp4"), this["video".concat(e)].appendChild(s), this.insertedVideos.push(e);
             }
+          }
+        }, {
+          key: "playVideo",
+          value: function value(e) {
+            console.log("play", this["video".concat(e)], e), this["video".concat(e)] && this["video".concat(e)].play();
+          }
+        }, {
+          key: "pauseVideo",
+          value: function value(e) {
+            console.log("pause", this["video".concat(e)], e), this["video".concat(e)] && this["video".concat(e)].pause();
           }
         }, {
           key: "addInviewByScroll",
@@ -332,7 +376,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
               });
             });
           }
-        }]) && v(t.prototype, r), Object.defineProperty(t, "prototype", {
+        }]) && h(t.prototype, r), Object.defineProperty(t, "prototype", {
           writable: !1
         }), e;
       }();
@@ -362,17 +406,17 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
     if (!r) {
       var n = 1 / 0;
 
-      for (l = 0; l < e.length; l++) {
-        for (var _e$l = _slicedToArray(e[l], 3), r = _e$l[0], s = _e$l[1], i = _e$l[2], a = !0, c = 0; c < r.length; c++) {
+      for (p = 0; p < e.length; p++) {
+        for (var _e$p = _slicedToArray(e[p], 3), r = _e$p[0], s = _e$p[1], i = _e$p[2], a = !0, c = 0; c < r.length; c++) {
           (!1 & i || n >= i) && Object.keys(o.O).every(function (e) {
             return o.O[e](r[c]);
           }) ? r.splice(c--, 1) : (a = !1, i < n && (n = i));
         }
 
         if (a) {
-          e.splice(l--, 1);
-          var p = s();
-          void 0 !== p && (t = p);
+          e.splice(p--, 1);
+          var d = s();
+          void 0 !== d && (t = d);
         }
       }
 
@@ -381,11 +425,11 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 
     i = i || 0;
 
-    for (var l = e.length; l > 0 && e[l - 1][2] > i; l--) {
-      e[l] = e[l - 1];
+    for (var p = e.length; p > 0 && e[p - 1][2] > i; p--) {
+      e[p] = e[p - 1];
     }
 
-    e[l] = [r, s, i];
+    e[p] = [r, s, i];
   }, o.n = function (e) {
     var t = e && e.__esModule ? function () {
       return e["default"];
@@ -420,7 +464,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
           n = _r[0],
           a = _r[1],
           c = _r[2],
-          p = 0;
+          d = 0;
 
       if (n.some(function (t) {
         return 0 !== e[t];
@@ -429,14 +473,14 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
           o.o(a, s) && (o.m[s] = a[s]);
         }
 
-        if (c) var l = c(o);
+        if (c) var p = c(o);
       }
 
-      for (_t && _t(r); p < n.length; p++) {
-        i = n[p], o.o(e, i) && e[i] && e[i][0](), e[i] = 0;
+      for (_t && _t(r); d < n.length; d++) {
+        i = n[d], o.o(e, i) && e[i] && e[i][0](), e[i] = 0;
       }
 
-      return o.O(l);
+      return o.O(p);
     },
         r = self.webpackChunk = self.webpackChunk || [];
 
